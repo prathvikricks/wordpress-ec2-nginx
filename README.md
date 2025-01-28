@@ -1,4 +1,3 @@
-<img width="1021" alt="Screenshot 2025-01-23 at 4 01 49 PM" src="https://github.com/user-attachments/assets/6be0c1ea-3a6b-40d2-ac86-5e83623c583e" /># wordpress-ec2-nginx
 
 
 # Setting up WordPress with Nginx on Ubuntu
